@@ -45,10 +45,10 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 **AI Models & Apps**
-![Claude](https://img.shields.io/badge/Claude_Opus/Sonnet_4.5-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Opus/Sonnet_4.6-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_3_Pro/Flash-8E75B2?style=flat&logo=google-gemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-222222?style=flat&logo=perplexity&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen_3_(DashScope)-000000?style=flat&logo=alibaba-cloud&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen_3.6_(DashScope)-000000?style=flat&logo=alibaba-cloud&logoColor=white)
 
 **Production Stack**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
