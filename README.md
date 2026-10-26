@@ -1,121 +1,53 @@
-<!-- ## Hi there 👋 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1e3a8a&height=140&section=header&text=Andy%20Zheng&fontSize=40&fontColor=ffffff" width="100%" alt="Andy Zheng" />
 
-<div align="center">
-  <h2>Hi there, I'm Andy! 👋</h2>
-  <p>
-    <b>Logic-First Developer & AI Orchestrator</b><br>
-    Year 4 CS Student @UG-CS-HKBU | Developer Intern @BytewiseHK
-  </p>
-  <p>
-    I don't just write code; I orchestrate agents.<br>
-    I specialize in Hierarchical AI Workflows—using "Manager" agents for architecture/state<br>
-    and "Worker" agents for implementation, preventing context decay while moving fast.
-  </p>
-</div>
+### Hi, I'm Andy (Zian Zheng) 👋
 
-<br />
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=0F766E&width=520&lines=Building+AI+tools+you+can+check;RAG+%C2%B7+knowledge+graphs+%C2%B7+agents;Based+in+Hong+Kong)](https://hi.andyzheng.workers.dev)
 
-### 🧠 My "AI-Orchestrator" Workflow
-> *The context window is the new bottleneck. Here is how I manage it:*
+Final-year Computer Science student at **Hong Kong Baptist University** (graduating Dec 2026). I build AI tools that people can check and actually use: retrieval over real sources, honest citations, and simple interfaces.
 
-1.  **Manager-Worker Pattern:** I maintain a "Manager" chat session that holds only the Project Spec & State (zero code). It delegates tasks to ephemeral "Worker" sessions.
-2.  **Spec-Driven:** The "Manager" outputs strict requirements; "Workers" implement them. This separates logic from syntax.
-3.  **Verification Gates:** AI writes the implementation, but I verify the logic before merging.
-4.  **Hybrid Retrieval:** Combining Vector Search (RAG) with Knowledge Graphs to ground the agents (as seen in my FYP, **[TCM-Sage](https://github.com/AndyZHENG0715/tcm-sage)**).
+I work AI-first. Claude Code and Codex write much of the code; I plan the system, review the output and test that it does what it should.
+
+🌐 **Portfolio:** [hi.andyzheng.workers.dev](https://hi.andyzheng.workers.dev)
 
 ---
 
-### 🔭 Key Projects
+### Projects
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| **[TCM-Sage](https://github.com/AndyZHENG0715/tcm-sage)** | **FYP:** An LLM-augmented diagnosis assistant for Traditional Chinese Medicine. | RAG · Knowledge Graphs · Streamlit · Multi-LLM |
-| **@BytewiseHK** | Developing chatbot features and agentic workflows using various LLMs. | Pinecone · n8n · LLMs (Claude/GPT/Gemini/etc.) |
-| **Freelance** | E-commerce solutions (e.g., *Verona Gelato*) and newsletter automation. | Vue 3 · Supabase · Vercel · Railway |
-
----
-
-### 🛠️ The AI-Native Toolbelt
-
-<div align="center">
-
-**Agentic IDEs & Design**
-![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white)
-![Stitch](https://img.shields.io/badge/Google_Stitch-34A853?style=flat&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-
-**AI Models & Apps**
-![Claude](https://img.shields.io/badge/Claude_Opus/Sonnet_4.6-D97757?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_3_Pro/Flash-8E75B2?style=flat&logo=google-gemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-222222?style=flat&logo=perplexity&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen_3.6_(DashScope)-000000?style=flat&logo=alibaba-cloud&logoColor=white)
-
-**Production Stack**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-</div>
+| Project | What it is | Live |
+|:--|:--|:--|
+| **[TCM-Sage](https://github.com/AndyZHENG0715/TCM-Sage)** | Final year project. Grounded Q&A over 17 classical Chinese medicine texts: vector search plus a knowledge graph, self-checked answers with citations, evaluated in a blind A/B arena. | [demo](https://tcm-sage-sandy.vercel.app) |
+| **[HKO Signal 8 Transparency Portal](https://github.com/AndyZHENG0715/HKOSignal8TransparencyPortal)** | Bilingual portal that checks Signal No. 8 decisions against observed wind data from eight stations across 11 typhoons. Course project, technical lead. | [site](https://hko-signal8.pages.dev) |
+| **HKBU GenAI Gateway** | One OpenAI-compatible endpoint (with tool calling) over the university GenAI platform's models, so students can use them in coding tools and AI agents. | [site](https://byok.aitutor.ink) |
+| **Lens** | Multi-perspective information platform. Co-founder & CTO; took it from idea to a live prototype. | [prototype](https://lens-panorama.pages.dev) |
+| **ArcPaw** | Product website for a student venture making modular cardboard cat furniture: React, TypeScript and Three.js, with a 3D builder and WebXR AR preview. | [site](https://arcpaw.pages.dev) |
+| **SpeakNow** | AI speaking partner for DSE English practice. Led the tech work; 1st Runner-up, BUild Agentic AI Hackathon (HKBU, Oct 2026). | [demo](https://speaknow-team7.onrender.com) |
 
 ---
 
-### 🌱 Currently Exploring
+### Tools I use
 
-- **Agentic Workflows:** Refining the "Manager-Worker" pattern for larger teams.
-- **Hybrid Retrieval:** Improving RAG accuracy by combining vector similarity with graph traversal.
-- **Product Thinking:** Moving beyond "does it run?" to "does it solve the user's problem?"
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,nextjs,react,fastapi,threejs,vercel,cloudflare,git)](https://skillicons.dev)
 
----
-
-### 💬 Chat With Me About
-
-| Topic | What We Can Talk About |
-|-------|------------------|
-| **AI Workflows** | How to use Antigravity/Stitch/LLMs to speed up development cycles. |
-| **Context Management** | Techniques to keep LLMs "smart" over long projects (Hierarchy, RAG, Summarization). |
-| **Formula 1** | The drama of the 2021 season or just vibing on race weekends. |
-| **Cars** | Porsches (911 is the dream), JDM legends, and car photography. |
+**AI:** RAG · knowledge graphs · LLM APIs · agent workflows
+**How I build:** Claude Code · Codex · Cursor · OpenCode
 
 ---
 
-### 👯 Collaboration
+### How I like to build
 
-I am currently focused on my FYP and Internship, but I am open to lightweight discussions or brainstorming on:
-* RAG & Knowledge Graph architectures.
-* New AI-Assisted development tools (Antigravity, Stitch, Spec-kit, etc.).
-
----
-
-### ⚡ Fun Facts
-
-- 🐹 TWICE fan (Sana is my bias).
-- 🏋️‍♂️ Currently trying to build wider shoulders at the gym.
-- 🏎️ Dream Garage: An indecisive mix of a Porsche 911 GT3 RS, a comfy RV for road trips, and maybe a daily driver... I can't decide.
+- **Start from real sources.** Answers should point back to where they came from.
+- **Check the output.** I read what the agents write and test it; TCM-Sage was judged in a blind A/B arena, not just by me.
+- **Ship something people can open.** A live link beats a screenshot.
 
 ---
 
-### 📫 Contact Me
+### Beyond code
 
-<div align="center">
+🏎️ F1 on weekends · 🚗 Porsche fan · 🎤 TWICE on repeat · 🏋️ gym when I can
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zian-zheng-27a40224b/)
+Teaching Assistant for GCAP3056 at HKBU · former VP Outgoing Exchange, AIESEC in HKBU
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zianzheng)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zian.zheng0715@gmail.com)
-
-</div>
-
-<!--
-**AndyZHENG0715/AndyZHENG0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat&logo=cloudflare&logoColor=white)](https://hi.andyzheng.workers.dev)
