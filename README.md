@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1e3a8a&height=140&section=header&text=Andy%20Zheng&fontSize=40&fontColor=ffffff" width="100%" alt="Andy Zheng" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1e3a8a&height=140&section=header&text=Andy%20ZHENG&fontSize=40&fontColor=ffffff" width="100%" alt="Andy ZHENG" />
 
 ### Hi, I'm Andy (Zian Zheng) 👋
 
